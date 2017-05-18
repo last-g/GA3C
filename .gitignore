@@ -6,3 +6,5 @@
 .idea
 out
 gen
+*.pyc
+__pycache__
